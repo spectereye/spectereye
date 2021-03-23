@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @spectereye
-- 👀 I’m interested in python, javascript (vue), automation boring issues, mechnics, cad, cax, ms office, and ai, deep learning ...
+- 👀 I’m interested in python, javascript (vue), automatation, mechnics, cad, cax, ms office, and opencv, ai, deep learning ...
 - 🌱 I’m currently learning javascript, vue, uniapp, deep learning
 - 💞️ I’m looking to collaborate on some python game agent project
 - 📫 How to reach me spectereye@gmail.com
