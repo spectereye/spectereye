@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @spectereye
 - 👀 I’m interested in python (automate boring staff, opencv, machine learning) and javascript (vue, nodejs, uniapp) and c/c++ (arduino)
-- 🌱 I’m currently learning javascript (vue, nodejs, uniapp) 
+- 👀 I’m also interested in CAD(Autocad/Inventor/Solidworks/WebGL and 3D models from script) and CAE(Ansys/APDL)
+- 🌱 I’m currently learning javascript (nodejs, vue, uniapp, quasar)
 - 💞️ I’m looking to collaborate on projects related to my interest
 - 📫 How to reach me: spectereye@gmail.com
 
